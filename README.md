@@ -124,14 +124,12 @@
 
 **С чего начать:**
 
-Статьи: 
-
 Книги:
 1. Е. Ю. Хрусталева - Знакомство с разработкой мобильных приложений на платформе 1С:Предприятие 8 - https://v8.1c.ru/metod/books/42725.htm
 
 **Подробнее:**
 
-Официальный сайт: https://v8.1c.ru/platforma/mobilnaya-platforma-1s-predpriyatiya/
+1. Официальный сайт: https://v8.1c.ru/platforma/mobilnaya-platforma-1s-predpriyatiya/
 
 [В начало](#стек-технологий-для-1с)
 
