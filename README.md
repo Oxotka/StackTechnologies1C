@@ -652,7 +652,45 @@ Vanessa-Automation и Vanessa-ADD развиваются параллельно,
 
 ### Плагин для SonarQube
 
+Поддержка языка 1С:Предприятие 8 и OneScript для SonarQube. SonarQube - платформа для непрерывного анализа и измерения качества программного кода.
 
+Возможности:
+
+- Дашборд проекта
+- Подсветка синтаксиса 1С:Предприятие
+- Расчет базовых метрик и количества строк кода
+- Регистрация диагностик, предоставляемых BSL Language Server как внутренних правил
+- Встроенный анализатор - BSL Language Server Diagnostic provider
+- Импорт результатов внешних анализаторов во внутреннем формате json
+
+![alt text](img/SonarQube.png "SonarQube")​
+
+**Зачем нужно:**
+
+Используется для непрерывной оценки качества кода и управления техническим долгом.
+
+**Заметки:**
+
+Прекрасный инструмент, который показывает замечания с привязкой к конкретной строчке кода и, соответственно, автору. Позволяет отслеживать замечания и ошибки только в новом коде. Это удобно, так как мы можем прямо сейчас стараться не допускать новых замечаний и постепенно разбираться со старыми.
+
+Из коробки 1С не поддерживает, но есть, как минимум, два плагина для 1С:
+
+- [SonarQube 1C (BSL) Community Plugin](https://github.com/1c-syntax/sonar-bsl-plugin-community) - open source решение (бесплатно)
+- [SONARQUBE 1C (BSL) Plugin](https://silverbulleters.org/sonarqube)  - решение от SilverBulleters
+
+Также позволяет использовать внешние анализаторы, такие как Синтаксическая проверка конфигурации или АПК.
+
+**С чего начать:**
+
+1. Статья - [Управляй качеством кода 1С с помощью SonarQube](https://infostart.ru/1c/articles/1089670/)
+2. Статья - [Как управлять качеством кода 1С, используя платформу SonarQube](https://infostart.ru/1c/articles/1175305/)
+3. Статья - [Управление качеством кода](https://infostart.ru/1c/articles/1096770/)
+
+**Подробнее:**
+
+1. Официальный сайт Community Plugin - https://1c-syntax.github.io/sonar-bsl-plugin-community/
+2. Исходный код Community Plugin - https://github.com/1c-syntax/sonar-bsl-plugin-community
+3. SONARQUBE 1C (BSL) Plugin - https://silverbulleters.org/sonarqube
 
 ## Прочее
 
