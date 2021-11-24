@@ -716,7 +716,7 @@ Vanessa-Automation и Vanessa-ADD развиваются параллельно,
 
 Термин “code review” может означать разные действия, от простого чтения какого-то кода из-за спины разработчика до совещания на 20 человек, где вы разбираете код строчка за строчкой.
 
-![alt text](img/SonarQube.png "SonarQube")​
+![alt text](img/CodeReview.png "CodeReview")​
 
 **Зачем нужно:**
 
