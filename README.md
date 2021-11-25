@@ -223,6 +223,7 @@
 2. Статья - [Как решать повседневные задачи с помощью OneScript](http://infostart.ru/public/327581/)
 3. Статья - [Обзор имеющихся библиотек OneScript](https://infostart.ru/1c/articles/699642/)
 4. Статья - [Примеры скриптов на OneScript](https://infostart.ru/public/537028/)
+5. Статья - [Исчерпывающее руководство по созданию библиотеки OneScript](https://infostart.ru/1c/articles/791568/)
 
 **Подробнее:**
 
