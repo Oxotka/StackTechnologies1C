@@ -1,6 +1,9 @@
 # Стек технологий для 1С
 
- [<img title="logo1c" alt="logo1c" src="img/logo/logo1cm.png">](#встроенный-язык-программирования-1спредприятия) ![alt text](img/logo/Конфигуратор.png "Конфигуратор")​ ![alt text](img/logo/edt.png "EDT")​ ![alt text](img/logo/vcode.png "VSC")​ ![alt text](img/logo/git.png "git")​ ![alt text](img/logo/1cmaker.png "1cmaker")​ ![alt text](img/logo/sonar.png "sonarqube")​
+[<img title="logo1c" alt="logo1c" src="img/logo/logo1cm.png">](#встроенный-язык-программирования-1спредприятия)
+[<img title="logo1c" alt="Конфигуратор" src="img/logo/Конфигуратор.png">](#конфигуратор)
+[<img title="edt" alt="EDT" src="img/logo/EDT.png">](#1centerprise-development-tools-edt)
+![alt text](img/logo/vcode.png "VSC")​ ![alt text](img/logo/git.png "git")​ ![alt text](img/logo/1cmaker.png "1cmaker")​ ![alt text](img/logo/sonar.png "sonarqube")​
 
 ![alt text](img/logo/jenkins.png "jenkins")​ ![alt text](img/logo/gitlab.png "gitlab")​ ![alt text](img/logo/vagrant.png "vagrant")​ ![alt text](img/logo/docker.png "docker")​ ![alt text](img/logo/allure.png "allure")​ ![alt text](img/logo/telegram.png "telegram")​ ![alt text](img/logo/rabbitmq.png "rabbitmq")​ ![alt text](img/logo/kafka.png "kafka")​ ![alt text](img/logo/powerbi.png "powerbi")​
 
