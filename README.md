@@ -3,10 +3,20 @@
 [<img title="logo1c" alt="logo1c" src="img/logo/logo1cm.png">](#встроенный-язык-программирования-1спредприятия)
 [<img title="logo1c" alt="Конфигуратор" src="img/logo/Конфигуратор.png">](#конфигуратор)
 [<img title="edt" alt="EDT" src="img/logo/edt.png">](#1centerprise-development-tools-edt)
-![alt text](img/logo/vcode.png "VSC")​ ![alt text](img/logo/git.png "git")​ ![alt text](img/logo/1cmaker.png "1cmaker")​ ![alt text](img/logo/sonar.png "sonarqube")​
+[<img title="vcode" alt="vcode" src="img/logo/vcode.png">](#visual-studio-code-vscode)
+[<img title="git" alt="git" src="img/logo/git.png">](#git)
+[<img title="1cmaker" alt="1cmaker" src="img/logo/1cmaker.png">](#1cmaker)
+[<img title="sonar" alt="sonar" src="img/logo/sonar.png">](#плагин-для-sonarqube)
 
-![alt text](img/logo/jenkins.png "jenkins")​ ![alt text](img/logo/gitlab.png "gitlab")​ ![alt text](img/logo/vagrant.png "vagrant")​ ![alt text](img/logo/docker.png "docker")​ ![alt text](img/logo/allure.png "allure")​ ![alt text](img/logo/telegram.png "telegram")​ ![alt text](img/logo/rabbitmq.png "rabbitmq")​ ![alt text](img/logo/kafka.png "kafka")​ ![alt text](img/logo/powerbi.png "powerbi")​
-
+[<img title="jenkins" alt="jenkins" src="img/logo/jenkins.png">](#jenkins)
+[<img title="gitlab" alt="gitlab" src="img/logo/gitlab.png">](#gitlab-ci)
+[<img title="vagrant" alt="vagrant" src="img/logo/vagrant.png">](#vagrant)
+[<img title="docker" alt="docker" src="img/logo/docker.png">](#docker)
+[<img title="allure" alt="allure" src="img/logo/allure.png">](#allure)
+[<img title="telegram" alt="telegram" src="img/logo/telegram.png">](#telegram-бот)
+[<img title="rabbitmq" alt="rabbitmq" src="img/logo/rabbitmq.png">](#брокеры-сообщений-rabbitmq-kafka-и-другие)
+[<img title="kafka" alt="kafka" src="img/logo/kafka.png">](#брокеры-сообщений-rabbitmq-kafka-и-другие)
+[<img title="powerbi" alt="powerbi" src="img/logo/powerbi.png">](#microsoft-power-bi)
 
 
 Стек технологий, которые могут быть полезны разработчику на 1С и около 1С.
