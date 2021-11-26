@@ -1,6 +1,8 @@
 # Стек технологий для 1С
 
-![alt text](img/logo/logo1cm.png "Логотип 1С")​ ![alt text](img/logo/Конфигуратор.png "Конфигуратор")​ ![alt text](img/logo/edt.png "EDT")​ ![alt text](img/logo/vcode.png "VSC")​ ![alt text](img/logo/git.png "git")​ ![alt text](img/logo/1cmaker.png "1cmaker")​ ![alt text](img/logo/sonar.png "sonarqube")​  ![alt text](img/logo/jenkins.png "jenkins")​ ![alt text](img/logo/gitlab.png "gitlab")​ ![alt text](img/logo/vagrant.png "vagrant")​ ![alt text](img/logo/docker.png "docker")​ ![alt text](img/logo/allure.png "allure")​
+![alt text](img/logo/logo1cm.png "Логотип 1С")​ ![alt text](img/logo/Конфигуратор.png "Конфигуратор")​ ![alt text](img/logo/edt.png "EDT")​ ![alt text](img/logo/vcode.png "VSC")​ ![alt text](img/logo/git.png "git")​ ![alt text](img/logo/1cmaker.png "1cmaker")​ ![alt text](img/logo/sonar.png "sonarqube")​
+
+![alt text](img/logo/jenkins.png "jenkins")​ ![alt text](img/logo/gitlab.png "gitlab")​ ![alt text](img/logo/vagrant.png "vagrant")​ ![alt text](img/logo/docker.png "docker")​ ![alt text](img/logo/allure.png "allure")​ ![alt text](img/logo/telegram.png "telegram")​ ![alt text](img/logo/rabbitmq.png "rabbitmq")​ ![alt text](img/logo/kafka.png "kafka")​ ![alt text](img/logo/powerbi.png "powerbi")​
 
 Стек технологий, которые могут быть полезны разработчику на 1С и около 1С.
 По каждой технологии постарался объяснить зачем она нужна и с чего начать изучение, если заинтересует.
