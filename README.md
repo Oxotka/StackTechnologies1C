@@ -180,7 +180,7 @@
 
 **С чего начать:**
 
-1. Статья на зазеркалье - [1С-Исполнитель](https://wonderland.v8.1c.ru/blog/1c-ispolnitel)
+1. Статья на зазеркалье - [1С-Исполнитель](https://wonderland.v8.1c.ru/blog/1c-ispolnitel/)
 
 [В начало](#стек-технологий-для-1с)
 
@@ -215,7 +215,7 @@
 
 **С чего начать:**
 
-1. Статья на зазеркалье - [Новая технология разработки приложений](https://wonderland.v8.1c.ru/blog/novaya-tekhnologiya-razrabotki-prilozheniy)
+1. Статья на зазеркалье - [Новая технология разработки приложений](https://wonderland.v8.1c.ru/blog/novaya-tekhnologiya-razrabotki-prilozheniy/)
 
 [В начало](#стек-технологий-для-1с)
 
