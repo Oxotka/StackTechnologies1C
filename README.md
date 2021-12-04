@@ -15,6 +15,7 @@
 [<img title="docker" alt="docker" src="img/logo/docker.png">](#docker)
 [<img title="allure" alt="allure" src="img/logo/allure.png">](#allure)
 [<img title="telegram" alt="telegram" src="img/logo/telegram.png">](#telegram-бот)
+[<img title="toolkit" alt="toolkit" src="img/logo/toolkit.png">](#infostart-toolkit)
 [<img title="rabbitmq" alt="rabbitmq" src="img/logo/rabbitmq.png">](#брокеры-сообщений-rabbitmq-kafka-и-другие)
 [<img title="kafka" alt="kafka" src="img/logo/kafka.png">](#брокеры-сообщений-rabbitmq-kafka-и-другие)
 [<img title="powerbi" alt="powerbi" src="img/logo/powerbi.png">](#microsoft-power-bi)
@@ -40,6 +41,7 @@
     - [TurboConf](#turboconf)
     - [Подсистема "Инструменты разработчика"](#подсистема-инструменты-разработчика)
     - [Подсистема "Универсальные инструменты 1С для управляемых форм"](#подсистема-универсальные-инструменты-1с-для-управляемых-форм)
+    - [Infostart Toolkit](#infostart-toolkit)
     - [Плагин для конфигуратора PhoenixBSL](#плагин-для-конфигуратора-phoenixbsl)
     - [Плагины для 1С:EDT](#плагины-для-1сedt)
 - [Системы хранения версий](#системы-хранения-версий)
@@ -450,6 +452,41 @@ TurboConf повышает эффективность работы в Конфи
 **С чего начать:**
 
 1. Исходный код  - <https://github.com/cpr1c/tools_ui_1c/>
+
+[В начало](#стек-технологий-для-1с)
+
+### Infostart Toolkit
+
+Набор инструментов для анализа и обработки данных в информационной базе 1С.
+
+- Консоль разработчика (консоль запросов, кода, СКД)
+- Редактор объекта
+- Редактор констант
+- Поиск и замена ссылок
+- Поиск ссылок
+- Монитор лицензий
+- Подписки на события
+- Пользователи
+- Регламентные и фоновые задания
+- Все функции
+- Глобальное меню
+- Редактор параметров сеанса
+
+![alt text](img/toolkit.png "Infostart Toolkit")​
+
+**Зачем нужно:**
+
+Набор инструментов разработчика, который помогает в ежедневной работе.
+
+**С чего начать:**
+
+1. Видео - [Infostart Toolkit - инструмент, в котором сделано то, что давно просят от 1С](https://www.youtube.com/watch?v=VMsRKL_KVMM)
+2. Статья - [10 полезных, но малоизвестных возможностей IS Toolkit](https://infostart.ru/1c/articles/1431272/)
+
+**Подробнее:**
+
+1. Публикация - <https://infostart.ru/public/1254364/>
+2. Исходный код - <https://github.com/infostart-hub/toolkit>
 
 [В начало](#стек-технологий-для-1с)
 
