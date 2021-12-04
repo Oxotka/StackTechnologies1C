@@ -764,6 +764,8 @@ Vanessa-Automation и Vanessa-ADD развиваются параллельно,
 1. Исходный код - <https://github.com/grumagargler/tester>
 2. Документация - <http://tester.help>
 
+[В начало](#стек-технологий-для-1с)
+
 ## Статический анализ кода
 
 Это анализ программного обеспечения, производимый (в отличие от динамического анализа) без реального выполнения исследуемых программ.
@@ -889,7 +891,7 @@ Vanessa-Automation и Vanessa-ADD развиваются параллельно,
 
 1. Статья - [Code review по-человечески](https://habr.com/ru/post/340550/)
 2. Статья - [Как завести у себя в команде код-ревью](https://infostart.ru/1c/articles/1093475/)
-3. Статья - [Инструменты для Code-review](https://phpprofi.ru/blogs/post/108)
+3. Статья на английском - [12 Best Code Review Tools](https://kinsta.com/blog/code-review-tools/)
 
 **Подробнее:**
 
