@@ -7,6 +7,7 @@
 [<img title="git" alt="git" src="img/logo/git.png">](#git)
 [<img title="1cmaker" alt="1cmaker" src="img/logo/1cmaker.png">](#1cmaker)
 [<img title="sonar" alt="sonar" src="img/logo/sonar.png">](#плагин-для-sonarqube)
+[<img title="turboconf" alt="turboconf" src="img/logo/turboconf.png">](#turboconf)
 
 [<img title="jenkins" alt="jenkins" src="img/logo/jenkins.png">](#jenkins)
 [<img title="gitlab" alt="gitlab" src="img/logo/gitlab.png">](#gitlab-ci)
