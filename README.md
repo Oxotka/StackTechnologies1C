@@ -617,7 +617,8 @@ Git - система хранения версий для 1C:EDT.
 
 1. Документация git - <https://git-scm.com/book/ru/v2>
 2. Документация 1С:ГитКонвертер - <https://its.1c.ru/db/metod8dev#content:5937:hdoc>
-3. Официальный профиль 1С на Github - <https://github.com/1C-Company>
+3. Репозиторий 1С:Гитконвертер - <https://github.com/1C-Company/GitConverter?ysclid=lse94qtufp676076754>
+4. Официальный профиль 1С на Github - <https://github.com/1C-Company>
 
 [В начало](#стек-технологий-для-1с)
 
