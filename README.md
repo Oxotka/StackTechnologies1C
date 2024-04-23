@@ -543,6 +543,7 @@ TurboConf повышает эффективность работы в Конфи
 
 1. Статья - [Список плагинов, которые можно/нужно использовать в 1C:EDT](https://github.com/marmyshev/edt-plugins)
 2. Статья - [Как сделать плагин для 1С:EDT для начинающего](https://infostart.ru/1c/articles/1311121/)
+3. Статья - [12 плагинов для 1С:EDT, которые сделают работу разработчика удобнее и быстрее](https://курсы-по-1с.рф/news/2022-03-28-twelve-edt-plugins-for-ease-and-speed/)
 
 **Подробнее:**
 
@@ -918,9 +919,10 @@ Vanessa-Automation и Vanessa-ADD развиваются параллельно,
 
 **С чего начать:**
 
-1. Статья - [Code review по-человечески](https://habr.com/ru/post/340550/)
-2. Статья - [Как завести у себя в команде код-ревью](https://infostart.ru/1c/articles/1093475/)
-3. Статья на английском - [12 Best Code Review Tools](https://kinsta.com/blog/code-review-tools/)
+1. Видео - [Практика проведения Code-review](https://www.youtube.com/watch?v=BMAgiz2uEHA)
+2. Статья - [Code review по-человечески](https://habr.com/ru/post/340550/)
+3. Статья - [Как завести у себя в команде код-ревью](https://infostart.ru/1c/articles/1093475/)
+4. Статья на английском - [12 Best Code Review Tools](https://kinsta.com/blog/code-review-tools/)
 
 **Подробнее:**
 
