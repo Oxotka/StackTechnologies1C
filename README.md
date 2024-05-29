@@ -51,8 +51,6 @@
   - [Файловая СУБД](#файловая-субд)
   - [PostgreSQL](#postgresql)
   - [Microsoft SQLServer](#microsoft-sqlserver)
-  - [Oracle Database](#oracle-database)
-  - [IBM DB2](#ibm-db2)
 - [Системы хранения версий](#системы-хранения-версий)
   - [Хранилище](#хранилище)
   - [git](#git)
@@ -600,25 +598,40 @@ TurboConf повышает эффективность работы в Конфи
 
 **Зачем нужно:**
 
-PostgreSQL - это бесплатная и открытая СУБД, которая в текущих реалиях является одной из самых рекомендуемых.
+PostgreSQL - это бесплатная СУБД, которая в текущих реалиях является одной из самых рекомендуемых.
+
+**С чего начать:**
+
+1. Статья - [Настройка PostgreSQL 11.5 и 1C: Предприятие 8.3.16 на Windows Server 2008R2](https://infostart.ru/1c/articles/1180438/)
+2. Статья - [Настройка PostgreSQL для работы в связке с 1С 8.х на платформе Windows Server 2012, объём БД более 200 Гб](https://infostart.ru/1c/tools/554213/)
+3. Статья - [1С Батл: PostgreSQL 9,10 vs MS SQL 2016](https://infostart.ru/1c/articles/962876/)
+4. Статья - [Немного о конфигурировании PostgreSQL](https://infostart.ru/1c/articles/325482/)
 
 **Подробнее:**
 
 1. Статья на v8.1c.ru - [PostgreSQL](https://v8.1c.ru/platforma/postgresql/?)
-2. Статья - [Настройка PostgreSQL 11.5 и 1C: Предприятие 8.3.16 на Windows Server 2008R2](https://infostart.ru/1c/articles/1180438/)
-3. Статья - [Настройка PostgreSQL для работы в связке с 1С 8.х на платформе Windows Server 2012, объём БД более 200 Гб](https://infostart.ru/1c/tools/554213/)
+2. Официальный сайт - <https://1c.postgres.ru>
+3. Раздел на ИТС - [Особенности использования PostgreSQL](https://its.1c.ru/db/metod8dev#browse:13:-1:3190:3197)
 
-**С чего начать:**
-
-1. Официальный сайт - <https://1c.postgres.ru>
-2. Раздел на ИТС - [Особенности использования PostgreSQL](https://its.1c.ru/db/metod8dev#browse:13:-1:3190:3197)
-3. Статья - [Немного о конфигурировании PostgreSQL](https://infostart.ru/1c/articles/325482/)
+[В начало](#стек-технологий-для-1с)
 
 ## Microsoft SQLServer
 
-## Oracle Database
+Система управления реляционными базами данных, разработанная корпорацией Microsoft. Основной используемый язык запросов — Transact-SQL, создан совместно Microsoft и Sybase. Transact-SQL является реализацией стандарта ANSI/ISO по структурированному языку запросов (SQL) с расширениями.
 
-## IBM DB2
+**С чего начать:**
+
+1. Статья - [Как правильно настроить MS SQL сервер для работы с 1С](https://infostart.ru/1c/articles/65955/)
+2. Видео - [1С Предприятие 8.3.23 и MS SQL 2022](https://youtu.be/FcAPsYfhaFs?si=tEgUfh8c6ziAIvz9)
+3. Курс - [Microsoft SQL Server 2019 для поддержки системы "1С:Предприятие 8": администрирование, оптимизация, обеспечение безопасности](https://www.1c-uc3.ru/our-courses/all-courses/dlya-administratorov/ms/)
+
+**Подробнее:**
+
+1. Статья - [Совместные продукты «1С:Предприятие 8» и «Microsoft SQL Server»](https://1c.ru/rus/products/1c+microsoft.htm)
+2. Статья - [1С Батл: PostgreSQL 9,10 vs MS SQL 2016](https://infostart.ru/1c/articles/962876/)
+3. Видео - [MS SQL vs PostgreSQL для 1С](https://youtu.be/9bPVuIV3V7E?si=HfGCZwutXoIFyWgo)
+
+[В начало](#стек-технологий-для-1с)
 
 # Системы хранения версий
 
