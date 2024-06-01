@@ -8,6 +8,7 @@
 [<img title="1cmaker" alt="1cmaker" src="img/logo/1cmaker.png">](#1cmaker)
 [<img title="sonar" alt="sonar" src="img/logo/sonar.png">](#плагин-для-sonarqube)
 [<img title="turboconf" alt="turboconf" src="img/logo/turboconf.png">](#turboconf)
+[<img title="postgreSQL" alt="postgreSQL" src="img/logo/postgresql.png">](#postgresql)
 
 [<img title="jenkins" alt="jenkins" src="img/logo/jenkins.png">](#jenkins)
 [<img title="gitlab" alt="gitlab" src="img/logo/gitlab.png">](#gitlab-ci)
@@ -19,6 +20,7 @@
 [<img title="rabbitmq" alt="rabbitmq" src="img/logo/rabbitmq.png">](#брокеры-сообщений-rabbitmq-kafka-и-другие)
 [<img title="kafka" alt="kafka" src="img/logo/kafka.png">](#брокеры-сообщений-rabbitmq-kafka-и-другие)
 [<img title="powerbi" alt="powerbi" src="img/logo/powerbi.png">](#microsoft-power-bi)
+[<img title="microsoftsqlserver" alt="microsoftsqlserver" src="img/logo/microsoftsqlserver.png">](#microsoft-sqlserver)
 
 Стек технологий, которые могут быть полезны разработчику на 1С и около 1С.
 По каждой технологии постарался объяснить зачем она нужна и с чего начать изучение, если заинтересует.
