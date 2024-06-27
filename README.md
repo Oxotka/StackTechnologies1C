@@ -1380,6 +1380,7 @@ Microsoft Power BI — это коллекция программных служ
 
 1. Список классных программ для 1С - [Awesome-1c](https://github.com/artbear/awesome-1c)
 2. OpenYellow - агрегатор open-source проектов для 1С:Предприятие - [Топ-500 репозиториев](https://openyellow.notion.site/24727888daa641af95514b46bee4d6f2?v=9e43a4185abb44ef9a9457728afb42ff)
+3. Список телеграм каналов по 1С - <https://seiokami.github.io/links-one-s/>
 
 ## Прочие технологии
 
@@ -1414,4 +1415,4 @@ Microsoft Power BI — это коллекция программных служ
 # Благодарность
 
 Если статья была полезная или просто хотите поддержать автора,
-то можете подписаться на мой [Boosty](https://boosty.to/1cnik/) или [купить мне кофе](https://boosty.to/1cnik/donate)
+то можете подписаться на мой [Телеграм](https://t.me/AriN1C) или [купить мне кофе](https://boosty.to/1cnik/donate)
