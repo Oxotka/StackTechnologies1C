@@ -1,3 +1,5 @@
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/2/429536375.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=759e22e5b7d04ae0a6cabb8316a89b21&amp;pm=s) [![Static Badge](https://img.shields.io/badge/my%20telegram-channel-green)](https://t.me/AriN1C) [![Static Badge](https://img.shields.io/badge/infostart-profile-green)](http://infostart.ru/profile/237528/)
+
 # Стек технологий для 1С
 
 [<img title="logo1c" alt="logo1c" src="img/logo/logo1cm.png">](#встроенный-язык-программирования-1спредприятия)
@@ -24,9 +26,6 @@
 
 Стек технологий, которые могут быть полезны разработчику на 1С и около 1С.
 По каждой технологии постарался объяснить зачем она нужна и с чего начать изучение, если заинтересует.
-
-Репозиторий входит в ТОП по 1С - [![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/2/429536375.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=759e22e5b7d04ae0a6cabb8316a89b21&amp;pm=s)
-
 
 - [Стек технологий для 1С](#стек-технологий-для-1с)
 - [Разработка](#разработка)
