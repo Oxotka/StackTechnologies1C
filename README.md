@@ -1403,10 +1403,11 @@ Microsoft Power BI — это коллекция программных служ
 
 ## Полезные ссылки
 
-1. Список классных программ для 1С - [Awesome-1c](https://github.com/artbear/awesome-1c)
-2. OpenYellow - агрегатор open-source проектов для 1С:Предприятие - [Топ-500 репозиториев](https://openyellow.notion.site/24727888daa641af95514b46bee4d6f2?v=9e43a4185abb44ef9a9457728afb42ff)
-3. Список телеграм каналов по 1С - <https://seiokami.github.io/links-one-s/>
-4. Дизайн-гайд для 1С - <https://github.com/Oxotka/1CDesignGuide>
+1. Мой телеграм канал - <https://t.me/AriN1C>
+2. Список классных программ для 1С - [Awesome-1c](https://github.com/artbear/awesome-1c)
+3. OpenYellow - агрегатор open-source проектов для 1С:Предприятие - [Топ-500 репозиториев](https://openyellow.notion.site/24727888daa641af95514b46bee4d6f2?v=9e43a4185abb44ef9a9457728afb42ff)
+4. Список телеграм каналов по 1С - <https://seiokami.github.io/links-one-s/>
+5. Дизайн-гайд для 1С - <https://github.com/Oxotka/1CDesignGuide>
 
 # Ссылка на Инфостарт
 
