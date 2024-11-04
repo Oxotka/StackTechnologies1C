@@ -1311,6 +1311,7 @@ Apache Kafka — реализует архитектурную концепци�
 3. Статья - [1c + kafka.apache](https://infostart.ru/1c/articles/990211/)
 4. Статья - [Apache Kafka: Основы технологии](https://habr.com/ru/company/southbridge/blog/550934/)
 5. Статья - [RabbitMQ или Apache Kafka](https://zen.yandex.ru/media/mcs/rabbitmq-ili-apache-kafka-kakoi-broker-soobscenii-podoidet-dlia-vashego-proekta-601d6fab86f4e22208be5ff6)
+6. Статья - [RabbitMQ против Kafka](https://habr.com/ru/companies/itsumma/articles/416629/)
 
 **Подробнее:**
 
