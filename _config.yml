@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal 
-title: [Стек технологий для 1С]
-description: [Стек технологий, которые могут быть полезны разработчику на 1С и около 1С. По каждой технологии постарался объяснить, зачем она нужна и с чего начать изучение, если заинтересует]
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Стек технологий 1С]
+description: [Полезные технологии для разработчика на 1С и около 1С. Описано зачем нужна и с чего начать изучение]
