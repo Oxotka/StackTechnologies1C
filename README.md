@@ -11,6 +11,7 @@
 [<img title="sonar" alt="sonar" src="img/logo/sonar.png">](#плагин-для-sonarqube)
 [<img title="turboconf" alt="turboconf" src="img/logo/turboconf.png">](#turboconf)
 [<img title="postgreSQL" alt="postgreSQL" src="img/logo/postgresql.png">](#postgresql)
+[<img title="YAxUnit" alt="YAxUnit" src="img/logo/YAxUnit.png">](#yaxunit)
 
 [<img title="jenkins" alt="jenkins" src="img/logo/jenkins.png">](#jenkins)
 [<img title="gitlab" alt="gitlab" src="img/logo/gitlab.png">](#gitlab-ci)
@@ -63,6 +64,7 @@
     - [1С:Тестировщик и 1С:Сценарное тестирование](#1стестировщик-и-1ссценарное-тестирование)
     - [Vanessa-Automation и Vanessa-ADD](#vanessa-automation-и-vanessa-add)
     - [Тестер](#тестер)
+    - [YAxUnit](#yaxunit)
   - [Статический анализ кода](#статический-анализ-кода)
     - [Синтаксическая проверка конфигурации](#синтаксическая-проверка-конфигурации)
     - [1С:Автоматизированная проверка конфигураций](#1савтоматизированная-проверка-конфигураций)
@@ -885,7 +887,7 @@ Vanessa-Automation и Vanessa-ADD развиваются параллельно,
 
 - Быстро устанавливается, не требует специальных (кроме 1С) знаний и программного обеспечения
 - Быстро интегрируется в процесс разработки
-- Не требует фундаметального пересмотра философии программирования
+- Не требует фундаментального пересмотра философии программирования
 - Сфокусирован на процесс создания реальных тестов
 - Не требует подготовки отдельных баз и эталонных данных
 
@@ -906,6 +908,44 @@ Vanessa-Automation и Vanessa-ADD развиваются параллельно,
 
 1. Исходный код - <https://github.com/grumagargler/tester>
 2. Документация - <http://tester.help>
+
+[В начало](#стек-технологий-для-1с)
+
+### YAxUnit
+
+YAxUnit - фреймворк, для тестирования решений на базе 1С:Предприятие 8.3, управляемые формы.
+
+YAxUnit представляет собой мощный инструмент написания тестов для решений на платформе 1С:Предприятие. Он был создан с учетом лучших практик тестирования и предлагает множество функций, которые позволяют эффективно справиться с поставленной задачей.
+
+Особенности:
+
+- [Текучий интерфейс (Fluent interface)](https://bia-technologies.github.io/yaxunit/docs/getting-started/fluent-api) 
+- Легкий вход для применения Test Driven Development (разработка через тестирование)
+- Позволяют как создавать так и чистить данные за собой, оставляя базу в первоначальном виде
+- Возможность запускать отдельные тесты
+- Удобный плагин для EDT
+
+**Зачем нужно:**
+
+Когда начинаете использовать тестирование, даже если не следуете TDD, то всё равно начнете задаваться вопросом: "а как я это буду тестировать?". И как следствие, будете стараться следовать принципам SOLID, чтобы уменьшить зависимости, упростить методы, что облегчит тестирование. И это приводит к повышению качества кода.
+
+Также использую тесты, вы получаете возможность быстро проверить, что изменения кода, не ломают его.
+
+На YAxUnit возможно писать юнит, интеграционные и сценарные тесты. 
+
+**С чего начать:**
+
+1. Установка - <https://bia-technologies.github.io/yaxunit/docs/getting-started/install/>
+2. Плагин для EDT - <https://github.com/bia-technologies/edt-test-runner>
+3. Установка плагина - <https://github.com/bia-technologies/edt-test-runner/blob/develop/docs/Установка.md>
+4. Пишем первый тест - <https://bia-technologies.github.io/yaxunit/docs/getting-started/first-test>
+
+**Подробнее:**
+
+1. Исходный код - <https://github.com/bia-technologies/yaxunit>
+2. Документация - <https://bia-technologies.github.io/yaxunit/>
+3. Документация плагина для EDT - <https://bia-technologies.github.io/yaxunit/docs/getting-started/edt-plugin/> 
+4. Группа в телеграм - <https://t.me/BIAOpenTools/12>
 
 [В начало](#стек-технологий-для-1с)
 
