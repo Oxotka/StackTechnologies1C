@@ -12,7 +12,6 @@
 [<img title="sonar" alt="sonar" src="img/logo/sonar.png">](#плагин-для-sonarqube)
 [<img title="turboconf" alt="turboconf" src="img/logo/turboconf.png">](#turboconf)
 [<img title="postgreSQL" alt="postgreSQL" src="img/logo/postgresql.png">](#postgresql)
-
 [<img title="jenkins" alt="jenkins" src="img/logo/jenkins.png">](#jenkins)
 [<img title="gitlab" alt="gitlab" src="img/logo/gitlab.png">](#gitlab-ci)
 [<img title="vagrant" alt="vagrant" src="img/logo/vagrant.png">](#vagrant)
