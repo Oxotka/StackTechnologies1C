@@ -1563,10 +1563,11 @@ Postman — мощный инструмент для ручного тестир
 
 **Заметки:**
 
-1. Стоит обратить внимание, что [Postman может логировать все секреты и переменные окружения](https://habr.com/ru/articles/912432/).
-2. Можно рассмотреть аналоги, например [Bruno](https://www.usebruno.com/), где все запросы, секреты и прочее хранится локально, а не в облаке или [Insomnia](https://insomnia.rest).
+1. Стоит обратить внимание, что [Postman может логировать все секреты и переменные окружения](https://habr.com/ru/articles/912432/)
+2. Можно рассмотреть аналоги, например [Bruno](https://www.usebruno.com/), где все запросы, секреты и прочее хранится локально, а не в облаке или [Insomnia](https://insomnia.rest)
 3. Хорошо себя зарекомендовал Плагин для VSCode - [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client), который позволяет гибко настраивать взаимодействие. Пример на ИТС для плагина по [взаимодействию с OData в 1С](https://its.1c.ru/db/fresh#content:19956692:hdoc:issogl1_hs0nuvj)
 4. Еще есть [SoapUI](https://soapui.ru) для тестирования веб-сервисов
+5. Для тестирования API еще есть [Karate](https://github.com/karatelabs/karate), который имеет человеческий синтаксис
 
 **С чего начать:**
 
