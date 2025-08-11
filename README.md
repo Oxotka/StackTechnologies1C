@@ -19,6 +19,7 @@
 [<img title="allure" alt="allure" src="img/logo/allure.png">](#allure)
 [<img title="postman" alt="postman" src="img/logo/postman-icon-logo.svg" height=64>](#postman)
 [<img title="swagger" alt="swagger" src="img/logo/swagger-logo.svg" height=64>](#openapi-ui-ex-swagger)
+[<img title="curlone" alt="curlone" src="img/logo/curlone.png" height=64>](#curlone)
 [<img title="telegram" alt="telegram" src="img/logo/telegram.png">](#telegram-бот)
 [<img title="toolkit" alt="toolkit" src="img/logo/toolkit.png">](#infostart-toolkit)
 [<img title="rabbitmq" alt="rabbitmq" src="img/logo/rabbitmq.png">](#брокеры-сообщений-rabbitmq-kafka-и-другие)
