@@ -2,6 +2,8 @@
 
 # Стек технологий для 1С
 
+<img title="StackTechnology" alt="StackTechnology" src="img/stacktechnology.png">
+
 [<img title="logo1c" alt="logo1c" src="img/logo/logo1cm.png">](#встроенный-язык-программирования-1спредприятия)
 [<img title="logo1c" alt="Конфигуратор" src="img/logo/Конфигуратор.png">](#конфигуратор)
 [<img title="edt" alt="EDT" src="img/logo/edt.png">](#1centerprise-development-tools-edt)
