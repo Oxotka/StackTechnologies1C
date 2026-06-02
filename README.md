@@ -53,6 +53,7 @@
     - [Infostart Toolkit](#infostart-toolkit)
     - [Плагин для конфигуратора PhoenixBSL](#плагин-для-конфигуратора-phoenixbsl)
     - [Плагин 1С:Напарник](#плагин-1снапарник)
+    - [Плагин для VSCode «1C: Platform Tools»](#плагин-для-vscode-1c-platform-tools)
     - [Плагины для 1С:EDT](#плагины-для-1сedt)
     - [Библиотеки для OneScript](#библиотеки-для-onescript)
       - [Autumn (ОСень)](#autumn-осень)
@@ -566,6 +567,26 @@ TurboConf повышает эффективность работы в Конфи
 
 1. Официальный сайт [1С:Напарник](https://code.1c.ai)
 2. [Небольшой обзор](https://t.me/AriN1C/231) в телеграм-канале
+
+[В начало](#стек-технологий-для-1с)
+
+### Плагин для VSCode «1C: Platform Tools»
+
+Расширение для VSCode (и Cursor), объединяющее инструменты разработки на платформе 1С в едином интерфейсе редактора.
+
+![1C: Platform Tools](img/1CPlatformTools.png "1C: Platform Tools")​
+
+**Зачем нужно:**
+
+Позволяет работать с около-1Сными проектами прямо в VSCode: запуск команд `vanessa-runner`, навигация по проектам, дерево метаданных, ER-диаграммы, отладка 1С и интеграция с AI-агентами через MCP — в одной панели.
+
+**С чего начать:**
+
+1. Расширение в [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=yellow-hammer.1c-platform-tools)
+
+**Подробнее:**
+
+1. Репозиторий на GitHub - <https://github.com/yellow-hammer/vscode-1c-platform-tools>
 
 [В начало](#стек-технологий-для-1с)
 
