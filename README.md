@@ -1853,7 +1853,7 @@ Prometheus собирает метрики (нагрузка сервера 1С,
 
 **Подробнее:**
 
-1. Описание на Инфостарте - <https://infostart.ru/1c/tools/2433900/>
+1. Статья - [Еще раз о мониторинге и обслуживанииx OneSwiss](https://infostart.ru/1c/tools/2433900/)
 2. Репозиторий на GitHub - <https://github.com/akpaevj/oneswiss>
 
 [В начало](#стек-технологий-для-1с)
