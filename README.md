@@ -1863,12 +1863,13 @@ Prometheus собирает метрики (нагрузка сервера 1С,
 ## Полезные ссылки
 
 1. Мой телеграм канал - <https://t.me/AriN1C>
-2. Список классных программ для 1С - [Awesome-1c](https://github.com/artbear/awesome-1c)
-3. OpenYellow - агрегатор open-source проектов для 1С:Предприятие - [Топ-500 репозиториев](https://openyellow.notion.site/24727888daa641af95514b46bee4d6f2?v=9e43a4185abb44ef9a9457728afb42ff)
-4. Список телеграм каналов по 1С - <https://seiokami.github.io/links-one-s/>
-5. Дизайн-гайд для 1С - <https://github.com/Oxotka/1CDesignGuide>
-6. Турниры 1С - интерактивная площадка для решения задач по программированию на 1С - [Турниры 1С](https://xexod.ru)
-7. Тренажер: Код-ревью для 1С - <https://codereview1c.ru>
+2. Ландшафт технологий 1С - интерактивная карта экосистемы технологий 1С - <https://landscape1c.ru>
+3. Список классных программ для 1С - [Awesome-1c](https://github.com/artbear/awesome-1c)
+4. OpenYellow - агрегатор open-source проектов для 1С:Предприятие - [Топ-500 репозиториев](https://openyellow.notion.site/24727888daa641af95514b46bee4d6f2?v=9e43a4185abb44ef9a9457728afb42ff)
+5. Список телеграм каналов по 1С - <https://seiokami.github.io/links-one-s/>
+6. Дизайн-гайд для 1С - <https://github.com/Oxotka/1CDesignGuide>
+7. Турниры 1С - интерактивная площадка для решения задач по программированию на 1С - [Турниры 1С](https://xexod.ru)
+8. Тренажер: Код-ревью для 1С - <https://codereview1c.ru>
 
 [В начало](#стек-технологий-для-1с)
 
