@@ -2092,4 +2092,4 @@ Prometheus собирает метрики (нагрузка сервера 1С,
 
 # История звезд
 
-[![Star History Chart](https://api.star-history.com/image?repos=Oxotka/StackTechnologies1C&type=date&legend=top-left)](https://www.star-history.com/?repos=Oxotka%2FStackTechnologies1C&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/image?repos=Oxotka/StackTechnologies1C&type=date&legend=top-left)](https://star-history.dera.page/#Oxotka%2FStackTechnologies1C&type=date&legend=top-left)
