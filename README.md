@@ -2092,4 +2092,10 @@ Prometheus собирает метрики (нагрузка сервера 1С,
 
 # История звезд
 
-[![Star History Chart](https://star-history.dera.page/image?repos=Oxotka/StackTechnologies1C&type=date&legend=top-left)](https://star-history.dera.page/#Oxotka%2FStackTechnologies1C&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=Oxotka%2FStackTechnologies1C&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Oxotka/StackTechnologies1C&type=date&theme=dark&legend=top-left&sealed_token=FmwD_q2fu_uN7lZDPzFVllqdDLkfvI_rAJMge9bhdX2PuPKicxGa2X3p5yA7HFvBnRMTAZyCMdp733w190VWo7tkOy94PyhEmLYN4hFAb4ly-dgiPrrmEjPtcgWEkLAgWOBEn6znkofpuVJQlkGEwvYKNkKMu_IenVS3ubhcd28nl_Bitj_OBz4uB3hw" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Oxotka/StackTechnologies1C&type=date&legend=top-left&sealed_token=FmwD_q2fu_uN7lZDPzFVllqdDLkfvI_rAJMge9bhdX2PuPKicxGa2X3p5yA7HFvBnRMTAZyCMdp733w190VWo7tkOy94PyhEmLYN4hFAb4ly-dgiPrrmEjPtcgWEkLAgWOBEn6znkofpuVJQlkGEwvYKNkKMu_IenVS3ubhcd28nl_Bitj_OBz4uB3hw" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Oxotka/StackTechnologies1C&type=date&legend=top-left&sealed_token=FmwD_q2fu_uN7lZDPzFVllqdDLkfvI_rAJMge9bhdX2PuPKicxGa2X3p5yA7HFvBnRMTAZyCMdp733w190VWo7tkOy94PyhEmLYN4hFAb4ly-dgiPrrmEjPtcgWEkLAgWOBEn6znkofpuVJQlkGEwvYKNkKMu_IenVS3ubhcd28nl_Bitj_OBz4uB3hw" />
+ </picture>
+</a>
